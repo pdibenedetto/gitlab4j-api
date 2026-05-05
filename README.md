@@ -18,7 +18,7 @@ As of GitLab 11.0 support for the GitLab API v3 has been removed from the GitLab
 ## Using GitLab4J-API
 
 ### **Java 11 Requirement**
-As of GitLab4J-API 6.2.0, Java 11+ is now required to use GitLab4J-API.
+As of GitLab4J-API 6.0.0, Java 11+ is now required to use GitLab4J-API.
 
 ### **Javadocs**
 Javadocs are available here: [![javadoc.io](https://javadoc.io/badge2/org.gitlab4j/gitlab4j-api/javadoc.io.svg)](https://javadoc.io/doc/org.gitlab4j/gitlab4j-api)
